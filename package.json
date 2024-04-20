@@ -1,0 +1,12 @@
+{
+  "name": "bunbun-fur-fun",
+  "version": "1.0.0",
+  "description": "Getting fun with bun",
+  "main": "index.js",
+  "keywords": [],
+  "author": "dfkuro",
+  "license": "ISC",
+  "dependencies": {
+    "node-html-parser": "^5.3.3"
+  }
+}
